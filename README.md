@@ -19,7 +19,7 @@ Looking for a challenge that will allow me to leverage my programming skills and
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="60" height="60"/>
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" width="60" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" width="60" height="60"/>
