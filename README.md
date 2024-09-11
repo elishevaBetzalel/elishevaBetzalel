@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-אני מפתחת Full Stack עם דגש על עבודה יסודית, דיקנית, ועם יכולות לוגיות מפותחות. אני מתמקדת בפתרונות יצירתיים ושימת לב לפרטים הקטנים, תוך הקפדה על קוד ברור ומסודר. מחפשת אתגרים חדשים שיאפשרו לי להרחיב את הידע שלי ולהתקדם מקצועית.
-
+I  am a software developer with well-developed logical skills and an emphasis on thorough and meticulous work down to the last detail. Has the ability to work independently, in a team and under pressure. Excels at managing tasks and time in an optimal way while maintaining a high work ethic and personal responsibility.
+Looking for a challenge that will allow me to leverage my programming skills and advance professionally.
 ## Languages and Tools:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" title="C#" width="60" height="60"/>
