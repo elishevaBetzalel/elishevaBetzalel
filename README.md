@@ -1,8 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
 I  am a software developer with well-developed logical skills and an emphasis on thorough and meticulous work down to the last detail. Has the ability to work independently, in a team and under pressure. Excels at managing tasks and time in an optimal way while maintaining a high work ethic and personal responsibility.
 Looking for a challenge that will allow me to leverage my programming skills and advance professionally.
-## Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" title="C#" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="60" height="60"/>
@@ -23,9 +23,5 @@ Looking for a challenge that will allow me to leverage my programming skills and
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" title="Windows" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" title="Eclipse" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm" width="60" height="60"/>
 </p>
 
