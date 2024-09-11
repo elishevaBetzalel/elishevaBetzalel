@@ -23,7 +23,6 @@ Looking for a challenge that will allow me to leverage my programming skills and
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" title="Windows" width="60" height="60"/>
-   <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" title="Windows" width="60" height="60"/>
 
 </p>
 
