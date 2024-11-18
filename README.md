@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  
 
 I  am a software developer with well-developed logical skills and an emphasis on thorough and meticulous work down to the last detail. Has the ability to work independently, in a team and under pressure. Excels at managing tasks and time in an optimal way while maintaining a high work ethic and personal responsibility.
 Looking for a challenge that will allow me to leverage my programming skills and advance professionally.
