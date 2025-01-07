@@ -1,4 +1,5 @@
 # Elisheva Betzalel
+---
 
 ## 🌟 About Me
 I am a Full Stack Developer specializing in scalable and maintainable software solutions.
@@ -47,5 +48,6 @@ I have strong problem-solving skills and a keen attention to detail, always focu
 
 ## 📬 Contact Me  
 📧 Email: [e0504116785@gmail.com](mailto:e0504116785@gmail.com)
+
 
 Feel free to check out my [repositories](https://github.com/elishevaBetzalel) for a closer look at my work!  
