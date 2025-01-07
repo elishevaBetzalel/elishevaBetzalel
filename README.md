@@ -1,41 +1,20 @@
-# Hi there! 👋  
+# Elisheva Betzalel
 
-I am a **Full Stack Developer** with expertise in designing and building scalable and maintainable software solutions.  
-Currently, I am contributing to the development of advanced tools for the **Jerusalem Municipality**, focusing on enhancing operational efficiency and user experience.
+## 🌟 About Me
+I am a Full Stack Developer specializing in scalable and maintainable software solutions.
+Currently working on tools for the Jerusalem Municipality to enhance operational efficiency and user experience.
 
-I bring **strong logical and problem-solving skills**, meticulous attention to detail, and the ability to thrive in dynamic environments.  
-Whether working independently or in a team, I am passionate about delivering high-quality software that meets real-world needs.  
+I have strong problem-solving skills and a keen attention to detail, always focused on delivering high-quality software.
 
 ---
 
 ## 📌 Current Focus  
-
 - **Backend Development:**  
   .NET 8.0, C#, ASP.NET, Entity Framework (Code First).  
 - **Frontend Development:**  
   Angular 16, Blazor.  
 - **DevOps Practices:**  
   CI/CD pipelines with Azure DevOps and Git.  
-
----
-
-## 💼 Key Projects  
-
-- **Municipality Tax System Add-on:**  
-  Developed tools for monitoring and managing improvement requests from employees.  
-  Focused on Clean Architecture, API integration, and strict adherence to deadlines.  
-
-- **CI/CD Management Tool:**  
-  Built a Blazor-based tool for managing CI/CD pipelines, emphasizing user-friendly interfaces and seamless deployment workflows.  
-
-- **Platform for Beginner Developers:**  
-  A web platform supporting forums and developer tools using React (MUI design system) and a C# backend with MySQL integration.  
-
-- **File Packaging CLI:**  
-  A command-line tool in C# for merging and sorting files by type.  
-
-- **HTML Crawler:**  
-  A utility for processing and searching HTML tags using advanced data structures and design patterns.  
 
 ---
 
@@ -66,9 +45,7 @@ Whether working independently or in a team, I am passionate about delivering hig
 
 ---
 
-## 🌱 Learning and Growth  
-
-- Continuously learning modern web technologies and best practices.  
-- Exploring advanced concepts in software architecture and scalable system design.  
+## 📬 Contact Me  
+📧 Email: [e0504116785@gmail.com](mailto:e0504116785@gmail.com)
 
 Feel free to check out my [repositories](https://github.com/elishevaBetzalel) for a closer look at my work!  
