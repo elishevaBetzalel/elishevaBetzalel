@@ -1,5 +1,4 @@
 # Elisheva Betzalel
----
 
 ## 🌟 About Me
 I am a Full Stack Developer specializing in scalable and maintainable software solutions.
