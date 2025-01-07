@@ -13,7 +13,7 @@ Whether working independently or in a team, I am passionate about delivering hig
 - **Backend Development:**  
   .NET 8.0, C#, ASP.NET, Entity Framework (Code First).  
 - **Frontend Development:**  
-  Angular 16, React, and Blazor Server.  
+  Angular 16, Blazor.  
 - **DevOps Practices:**  
   CI/CD pipelines with Azure DevOps and Git.  
 
